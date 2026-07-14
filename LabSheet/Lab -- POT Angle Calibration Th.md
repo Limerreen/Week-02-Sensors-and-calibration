@@ -153,3 +153,6 @@ void app_main(void)
 
 <img width="717" height="320" alt="image" src="https://github.com/user-attachments/assets/eea9408f-c120-4106-8ad8-921627e65074" />
 การวัดครั้งที่ 2
+
+
+https://youtu.be/4YQKpafDiA4
